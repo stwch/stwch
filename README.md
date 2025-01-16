@@ -78,7 +78,7 @@ GoogleFonts に無いフォントを動的なコンテンツで使用するた�
 スムーズにわかりやすくデータを表示することを重視してデザインしています。<br />
 <br />
 サイト→ https://gbf-helper.com <br />
-リポジトリ→ https://github.com/stwch/GBFHelper/tree/main <br />
+リポジトリ→ https://github.com/stwch/GBFHelper <br />
 
 #### 使用技術
-<img src="https://img.shields.io/badge/-astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">
+<img src="https://img.shields.io/badge/-astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">
