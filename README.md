@@ -81,4 +81,4 @@ GoogleFonts に無いフォントを動的なコンテンツで使用するた�
 リポジトリ→ https://github.com/stwch/GBFHelper/tree/main <br />
 
 #### 使用技術
-<img src="https://img.shields.io/badge/-astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">
+<img src="https://img.shields.io/badge/-astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">
