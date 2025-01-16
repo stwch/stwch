@@ -62,7 +62,9 @@ ChatGPT を架空のクライアントとして、制作したWebサイトです
 ### font-split
 コマンドラインで使用する npm パッケージです。<br />
 フォントファイルを GoogleFonts のように120個程のファイルへ分割し、サブセット化します。<br />
-GoogleFonts に無いフォントを動的なコンテンツで使用するために制作しました。
+GoogleFonts に無いフォントを動的なコンテンツで使用するために制作しました。<br />
+<br />
+リポジトリ→ https://github.com/stwch/fontsplit <br />
 
 #### 使用技術
 <img src="https://img.shields.io/badge/-npm-333.svg?logo=npm&style=flat">　<img src="https://img.shields.io/badge/-Node.js-333.svg?logo=nodedotjs&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">
@@ -70,9 +72,13 @@ GoogleFonts に無いフォントを動的なコンテンツで使用するた�
 <br />
 
 ### GBFHelper｜グラブル攻略サイト
+
 グランブルーファンタジーの攻略サイトです。<br />
 膨大な攻略情報を整理したいと思い、制作しました。<br />
 スムーズにわかりやすくデータを表示することを重視してデザインしています。<br />
+<br />
+サイト→ https://gbf-helper.com <br />
+リポジトリ→ https://github.com/stwch/GBFHelper/tree/main <br />
 
 #### 使用技術
 <img src="https://img.shields.io/badge/-astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">
