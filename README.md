@@ -50,7 +50,8 @@ Webサイト制作に携わることです。<br />
 ### GreenLeafCafe（架空のカフェ）
 <img src="./green-leaf-cafe-top.webp" alt="GreenLeafCafe" style="width:33%;max-width:300px;" />
 ChatGPT を架空のクライアントとして、制作しているWebサイトです。<br />
-写真やテキスト、要望など ChatGPT が生成したものを使用します。<br />
+要望、テキスト、画像などのアセットはクライアント（ChatGPT）が提供、希望したものを使用します。<br />
+少しでも実務のように制作したいと思い、企画しました。<br />
 現在、制作しています。<br />
 <br />
 リポジトリ→ https://github.com/stwch/green-leaf-cafe <br />
