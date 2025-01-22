@@ -39,7 +39,7 @@ Webデザイン　<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html
 <br />
 
 ### 独学で学んでいる技術
-<img src="https://img.shields.io/badge/-Ract-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-Astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-Figma-333.svg?logo=figma&style=flat">　<img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat">
+<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-Astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-Figma-333.svg?logo=figma&style=flat">　<img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat">
 <br />
 <br />
 <br />
