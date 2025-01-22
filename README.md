@@ -24,13 +24,22 @@ Webサイト制作に携わることです。<br />
 <br />
 
 ## 学習について
-求職者支援訓練修了後、独学とポートフォリオの制作を通じて技術を学んでいます。
+①求職者支援訓練<br />
+②訓練修了後、独学とポートフォリオの制作<br />
 
-1. 求職者支援訓練にて『 HTML / CSS / JavaScript / Webデザイン 』を学習
+以上を通じて日々学んでいます
+<br />
+<br />
+<br />
 
-2. 独学で『 React / WordPress / Next.js / Astro / TypeScript / Figma / GitHub 』を学習
+### 求職者支援訓練で学んだ技術
+Webデザイン　<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-JavaScript-333.svg?logo=javascript&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">
+<br />
+<br />
+<br />
 
-独学については、Udemy のコース28種類、書籍、ポートフォリオ制作で学んでいます。
+### 独学で学んでいる技術
+<img src="https://img.shields.io/badge/-Ract-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-Astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-Figma-333.svg?logo=figma&style=flat">　<img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat">
 <br />
 <br />
 <br />
