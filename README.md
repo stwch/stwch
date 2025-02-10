@@ -1,64 +1,27 @@
 # 自己紹介
-はじめまして。<br />
-私は現在、Webサイト制作に関わる仕事を目指して就職活動および学習中です。<br />
-日々成長することを心掛けて、ポートフォリオ制作に取り組んでいます。
-<br />
-<br />
-<br />
-<br />
-
-## 目指していること
-Webサイト制作に携わることです。<br />
-そして、即戦力として貢献し、クライアントに満足していただけるサイトを提供することです。
-<br />
+日々の生活を便利にしてくれるWeb系の技術が大好きなWeb制作者です。<br />
+5年間の制作経験や、サービス業の経験を活かして、ユーザーフレンドリーなWebサイトを制作します。<br />
 <br />
 <br />
 <br />
 
-## 将来的にはどうなりたいか
-『**クライアントの希望をダイレクトに反映できるWeb制作者**』を目指します。<br />
-そのために、デザインからコーディングまで一貫して対応できるスキルの習得に取り組みます。
-<br />
-<br />
-<br />
-<br />
-
-## 今後の課題
-認証や、データベースなどのバックエンド処理を実装することです。<br />
-今までフロントに力をいれてきたので、バックエンドも学習すれば出来ることが広がるため。<br />
-また、近年のWenサイトには必須の技術だと思うため。
-<br />
+## 経験を活かして貢献できること
+- 静的サイトのコーディング（LP、コーポレートサイト等）
+- CMS によるブログ構築（WordPress 等）
+- WordPress カスタムテーマ構築
+- UIデザイン
+- Webデザイン<br />
 <br />
 <br />
 <br />
 
-## 学習について
-①求職者支援訓練<br />
-②訓練修了後、独学とポートフォリオの制作<br />
-
-以上を通じて日々学んでいます
-<br />
-<br />
-<br />
-
-### 求職者支援訓練で学んだ技術
-Webデザイン　<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-JavaScript-333.svg?logo=javascript&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">
-<br />
-<br />
-<br />
-
-### 独学で学んでいる技術
-<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-Astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-Figma-333.svg?logo=figma&style=flat">　<img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat">
-<br />
-<br />
-<br />
-<br />
-
-## 今取り組んでいること
-1. ChatGPT に架空のクライアントになってもらい、Webサイトを制作<br />
-
-2. 1で予約機能が必要なのでバックエンドの学習<br />
-  （ Docker、PHP、MySQL ）
+## 使用してきた主な技術
+- 基本<br />
+<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-JavaScript-333.svg?logo=javascript&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">
+- フレームワーク<br />
+<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-Astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">
+- ツール<br />
+<img src="https://img.shields.io/badge/-Figma-333.svg?logo=figma&style=flat">　<img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat"><br />
 <br />
 <br />
 <br />
@@ -66,18 +29,26 @@ Webデザイン　<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html
 ## ポートフォリオ一覧
 <br />
 
-### GreenLeafCafe（架空のカフェ）
+### GreenLeafCafe
 <img src="./green-leaf-cafe-top.webp" alt="GreenLeafCafe" style="width:33%;max-width:300px;" />
-ChatGPT を架空のクライアントとして、制作しているWebサイトです。<br />
-要望、テキスト、画像などのアセットはクライアント（ChatGPT）が提供、希望したものを使用します。<br />
-少しでも実務のように制作したいと思い、企画しました。<br />
-現在、制作しています。<br />
+
+- クライアント<br />
+ChatGPT
+
+- 実装機能<br />
+イベント予約、ブログ
+  
+- 技術スタック<br />
+<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">　<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">
+
+#### 制作のポイント
+AI からの制作依頼です。<br />
+架空の店舗情報を学習した AI にヒアリングを行いました。<br />
+かなりハッキリと意思表示をしてくるので進めやすく感じましたが、やり取りがある分リアルで楽しかったです。<br />
+WordPress の API とNext.js を連携させた予約システムとブログの実装に挑戦しています。<br />
+現在、制作中です。<br />
 <br />
 リポジトリ→ https://github.com/stwch/green-leaf-cafe <br />
-
-#### 使用技術
-<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">
-
 <br />
 
 ### font-split
