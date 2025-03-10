@@ -8,9 +8,14 @@
 <br />
 
 ## 経験を活かして貢献できること
+主に、フロントエンド開発の分野で貢献が可能です。<br />
+WordPress によるブログ構築等、一部バックエンドの分野も貢献できる可能性があります。<br />
+<br />
+
 - 静的サイトのコーディング（ LP、コーポレートサイト等 ）
 - CMS によるブログ構築（ WordPress、microCMS 等 ）
 - WordPress カスタムテーマ構築（ 世界に1つだけのあなた専用のブログ ）
+- API 連携による動的なWebサイト制作（ ECサイト、ブログ等 ）
 - UIデザイン（ 使いやすさを重視 ）
 - Webデザイン（ 美しく綺麗なレイアウトで印象付ける ）<br />
 <br />
@@ -18,6 +23,9 @@
 <br />
 
 ## 使用している主な技術
+現在は、Next.js と API の連携に最も力をいれています。<br />
+<br />
+
 - 基本<br />
 <img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-JavaScript-333.svg?logo=javascript&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">
 
