@@ -1,105 +1,99 @@
 # 自己紹介
-日々の生活を便利にしてくれるWebサイトが大好きなWeb制作者です。<br />
-4年間の制作経験や、サービス業の経験を活かして、ユーザーフレンドリーなWebサイトを制作します。<br />
+Web制作を通じて、日々の生活を便利にすることを目指しています。<br />
+サービス業で培ったユーザー視点を活かし、使いやすく魅力的なWebサイトの制作が得意です。<br />
 
-※ユーザーフレンドリーとは、簡単に言うと、「便利・快適」ということです。<br />
+フロントエンドを中心に、WordPress でのサイト構築や API 連携を用いた開発にも対応できます。<br />
 <br />
 <br />
 <br />
-
-## 経験を活かして貢献できること
-主に、フロントエンド開発の分野で貢献が可能です。<br />
-WordPress によるブログ構築等、一部バックエンドの分野も貢献できる可能性があります。<br />
 <br />
 
-- 静的サイトのコーディング（ LP、コーポレートサイト等 ）
-- CMS によるブログ構築（ WordPress、microCMS 等 ）
-- WordPress カスタムテーマ構築（ 世界に1つだけのあなた専用のブログ ）
-- API 連携による動的なWebサイト制作（ ECサイト、ブログ等 ）
-- UIデザイン（ 使いやすさを重視 ）
-- Webデザイン（ 美しく綺麗なレイアウトで印象付ける ）<br />
+## 対応可能な領域
+- フロントエンド開発（ HTML / CSS / JavaScript / TypeScript / React / Next.js / Astro ）
+- API 連携による動的なWebサイト開発（ ECサイト、ブログなど ）  
+- WordPress を活用したブログ・企業サイトの構築  
+- UI / UX デザイン（ 使いやすさを重視した設計 ）
+- Webデザイン（ シンプルで洗練されたデザインが得意 ）
 <br />
 <br />
 <br />
 
 ## 使用している主な技術
-現在は、Next.js と API の連携に最も力をいれています。<br />
-<br />
+#### フロントエンド<br />
+<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-Astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-JavaScript-333.svg?logo=javascript&style=flat">
 
-- 基本<br />
-<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-JavaScript-333.svg?logo=javascript&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">
+#### バックエンド<br />
+<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">　
 
-- フレームワーク<br />
-<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-Astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">
+#### デザイン<br />
+<img src="https://img.shields.io/badge/-Figma-333.svg?logo=figma&style=flat">　
 
-- ツール<br />
-<img src="https://img.shields.io/badge/-Figma-333.svg?logo=figma&style=flat">　<img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat"><br />
+#### 開発ツール<br />
+<img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat">　<img src="https://img.shields.io/badge/-npm-333.svg?logo=npm&style=flat">
+
 <br />
 <br />
 <br />
 
 ## 代表的な制作物
+
 <br />
+
+___
 
 ### GreenLeafCafe
 <img src="./green-leaf-cafe-top.webp" alt="GreenLeafCafe" style="width:33%;max-width:300px;" />
 
-- クライアント<br />
-ChatGPT
-
-- 実装機能<br />
-イベント予約、ブログ
+#### 実装機能<br />
+- イベント予約システム
+- ブログ
   
-- 技術スタック<br />
+#### 技術スタック<br />
 <img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">　<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">
 
-#### 制作のポイント
-AI からの制作依頼です。<br />
-架空の店舗情報を学習した AI にヒアリングを行いました。<br />
-かなりハッキリと意思表示をしてくるので進めやすく感じましたが、やり取りがある分リアルで楽しかったです。<br />
-WordPress の API とNext.js を連携させ、予約システム、ブログの実装に挑戦しています。<br />
-現在、制作中です。<br />
+#### 概要
+架空のカフェの情報を学習した AI にヒアリングを行いました。<br />
+架空のカフェの情報も AI が生成しています。<br />
+要件に従って、Next.js + WordPress API を活用し、予約システムとブログ機能を実装。<br />
+ある程度形になったら公開する予定です。<br />
 <br />
 リポジトリ→ https://github.com/stwch/green-leaf-cafe <br />
-<br />
-<br />
+
+___
 
 ### fontsplit
 <img src="https://img.shields.io/badge/--CB3837.svg?logo=npm&style=flat" style="width:25%;max-width:150px;">
 
-- 機能<br />
-フォントファイルの分割と、それらを使用するための font-face を生成します。<br />
-これにより、ブラウザが必要な文字を含む小さいファイルだけ読み込めるようになります。
+#### 機能<br />
+- フォントファイルを分割
+- 分割したファイル用の font-face を生成
 
-- 技術スタック<br />
+#### 技術スタック<br />
 <img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　
 
-#### 制作のポイント
-サブセット化ではカバーできない動的な部分（ フォームの入力等 ）に Webフォントを使用するために開発しました。<br />
-GoogleFonts の仕組みを参考にしています。<br />
-これを開発したことで、フォントファイルがあれば分割できるようになったので、フォントの選択がしやすくなり、制作が快適になりました。<br />
+#### 概要
+フォントファイルを自動的に分割し、最適な font-face を生成するツールです。<br />
+フォーム入力時など、サブセット化ではカバーできない動的なシーンでの Web フォント活用に対応可能です。<br />
 <br />
 npm → https://www.npmjs.com/package/fontsplit <br />
 リポジトリ→ https://github.com/stwch/fontsplit <br />
-<br />
-<br />
+
+
+___
 
 ### GBFHelper｜グラブル攻略サイト
 <img src="./feature-top.jpg" alt="GBFHelper" style="width:33%;max-width:300px;" />
 
-- クライアント<br />
-自分
+#### 実装機能<br />
+・UIデザイン
 
-- 実装機能<br />
-UIデザイン
-
-- 技術スタック<br />
+#### 技術スタック<br />
 <img src="https://img.shields.io/badge/-astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">
 
-#### 制作のポイント
-グランブルーファンタジーというソシャゲの攻略サイトです。<br />
-実際に役立つサイトを制作したいと思い初制作し、現在も稼働およびメンテナンスしています。<br />
-スムーズにわかりやすくデータを表示することを重視してデザインしました。<br />
+#### 概要
+グランブルーファンタジーというゲームの攻略サイトです。<br />
+私が初めて公開したWebサイトで、現在も稼働およびメンテナンスしています。<br />
+素早く、わかりやすくデータを表示することを重視して設計しました。<br />
 <br />
 サイト→ https://gbf-helper.com <br />
 リポジトリ→ https://github.com/stwch/GBFHelper <br />
