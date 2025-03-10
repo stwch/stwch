@@ -1,6 +1,8 @@
 # 自己紹介
 日々の生活を便利にしてくれるWebサイトが大好きなWeb制作者です。<br />
 4年間の制作経験や、サービス業の経験を活かして、ユーザーフレンドリーなWebサイトを制作します。<br />
+
+※ユーザーフレンドリーとは、簡単に言うと、「便利・快適」ということです。<br />
 <br />
 <br />
 <br />
@@ -15,7 +17,7 @@
 <br />
 <br />
 
-## 使用してきた主な技術
+## 使用している主な技術
 - 基本<br />
 <img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-JavaScript-333.svg?logo=javascript&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">
 
@@ -28,7 +30,7 @@
 <br />
 <br />
 
-## 公開可能な制作物
+## 代表的な制作物
 <br />
 
 ### GreenLeafCafe
