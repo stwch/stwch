@@ -42,7 +42,7 @@ Web制作を通じて、日々の生活を便利にすることを目指して�
 ___
 
 ### GreenLeafCafe
-<img src="./green-leaf-cafe-top.webp" alt="GreenLeafCafe" style="width:33%;max-width:300px;" />
+<img src="./green-leaf-cafe-top.webp" alt="GreenLeafCafe" width="320" />
 
 #### 実装機能<br />
 - イベント予約システム
@@ -62,7 +62,7 @@ ___
 ___
 
 ### fontsplit
-<img src="https://img.shields.io/badge/--CB3837.svg?logo=npm&style=flat" style="width:25%;max-width:150px;">
+<img src="https://img.shields.io/badge/--CB3837.svg?logo=npm&style=flat" width="180">
 
 #### 機能<br />
 - フォントファイルを分割
@@ -82,7 +82,7 @@ npm → https://www.npmjs.com/package/fontsplit <br />
 ___
 
 ### GBFHelper｜グラブル攻略サイト
-<img src="./feature-top.jpg" alt="GBFHelper" style="width:33%;max-width:300px;" />
+<img src="./feature-top.jpg" alt="GBFHelper" width="320" />
 
 #### 実装機能<br />
 ・UIデザイン
