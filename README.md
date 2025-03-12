@@ -51,7 +51,7 @@ ___
 - ブログ
   
 #### 技術スタック<br>
-<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">　<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">
+<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　
 
 #### 概要
 AIを活用し、架空のカフェの情報を基に制作しています。<br>
@@ -98,7 +98,7 @@ ___
 #### 概要
 フォントファイルを小さく分割し、最適な font-face を生成する npm パッケージです。<br>
 フォントをセルフホスティングするのに役立ち、フォントの選択を自由にします。<br>
-ECサイトやブログなど、**動的に変化するテキストにも対応** し、**パフォーマンスを維持しながら Webフォントを適用可能** です。<br>
+ECサイトやブログなど、**動的に変化するテキストにも対応** でき、**パフォーマンスを維持しながら Webフォントを適用可能** です。<br>
 <br>
 npm → https://www.npmjs.com/package/fontsplit <br>
 リポジトリ→ https://github.com/stwch/fontsplit <br>
