@@ -1,124 +1,108 @@
-# 自己紹介
-Web制作を通じて、日々の生活を便利にすることを目指しています。<br> 
-求職者支援訓練で Web制作の基礎を学び、その後も独学で開発に取り組んできました。<br>
-
-フロントエンドを中心に WordPress でのサイト構築や API 連携を用いた開発に対応できます。<br>
-
-最近は、要件定義・設計・テストについても学びながら、より実務レベルの開発を意識して取り組んでいます。<br>
+# 独学でスキルを磨き、Web制作の道へ
+<br>
+― 2025年、失業から4年間の学習を経てついに、準備は整いました ―<br>
+<br>
+実用可能なポートフォリオ制作を通じ、自立へ向けて突き進みます。<br>
 <br>
 <br>
 <br>
 <br>
 
-## 対応可能な領域
-- フロントエンド開発（ HTML / CSS / JavaScript / TypeScript / React / Next.js / Astro ）
-- API 連携による動的なWebサイト開発（ ECサイト、ブログなど ）  
-- WordPress を活用したブログ・企業サイトの構築  
-- UI / UX デザイン（ 使いやすさを重視した設計 ）
-- Webデザイン（ シンプルで洗練されたデザインが得意 ）
-<br>
-<br>
+# 自主開発ロードマップ
 <br>
 
-## 使用している技術
-#### フロントエンド<br>
-<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-Astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-HTML-333.svg?logo=html5&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　<img src="https://img.shields.io/badge/-JavaScript-333.svg?logo=javascript&style=flat">
-
-#### バックエンド<br>
-<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">　
-
-#### デザイン<br>
-<img src="https://img.shields.io/badge/-Figma-333.svg?logo=figma&style=flat">　
-
-#### 開発ツール<br>
-<img src="https://img.shields.io/badge/-GitHub-333.svg?logo=github&style=flat">　<img src="https://img.shields.io/badge/-npm-333.svg?logo=npm&style=flat">
+## 目次
+- [GBFHelper｜グラブル攻略](#gbfhelper)
+- [fontsplit](#fontsplit)
+- [GreenLeafCafe](#greenleafcafe)
 
 <br>
 <br>
 <br>
-
-## 代表的な制作物
-
 <br>
 
-___
+## GBFHelper｜グラブル攻略
+<a name="gbfhelper"></a>
+<img src="./feature-top.jpg" alt="GBFHelper" width="640" />
 
-### GreenLeafCafe（開発中）
-<img src="./green-leaf-cafe-top.webp" alt="GreenLeafCafe" width="320" />
+### 開発
+2024年9月 ～
+### 概要
+グランブルーファンタジーの攻略サイト
+### 目的
+1. アップデートによって攻略情報が複雑になり、ユーザーが混乱しやすい状況を解決する。 
+2. 初心者ユーザーが勘違いしないよう、最新情報を記載し、少しでもゲームを快適に進められることを目指す。
+### 課題
+1. 今のところ、データの表示に特化しすぎており、解説が少ない。（初心者ユーザーに不親切）
+2. 対応しきれていないコンテンツがある。
+3. まだまだ機能が少ない
+### 採用技術
+- Astro：静的サイトで対応可能なので、表示速度を重視
+- React：UI の操作性向上、ユーザー操作による表示データの切替
+- TypeScript：コードのメンテナンス性を維持
+### リンク
+- [リポジトリはこちら](https://github.com/stwch/GBFHelper#readme) <br>
+- [サイトはこちら](https://gbf-helper.com)
 
-#### 実装機能<br>
-- イベント予約システム
-- ブログ
-  
-#### 技術スタック<br>
-<img src="https://img.shields.io/badge/-Next.js-333.svg?logo=nextdotjs&style=flat">　<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　
-
-#### 概要
-AIを活用し、架空のカフェの情報を基に制作しています。<br>
-要件に従って、Next.js + WordPress API を使用し、予約システムとブログ機能を実装中です。<br>
-**実用レベルの完成を目指して開発を進めています。** <br>
 <br>
-リポジトリ→ https://github.com/stwch/green-leaf-cafe <br>
-
-___
-
-### CasualCustomFields（開発中）
-<img src="https://img.shields.io/badge/--21759B.svg?logo=wordpress&style=flat" height="180">　
-
-#### 実装機能<br>
-- 表示する投稿タイプの設定
-- カスタムフィールドの取得用 API
-- フィールドのドラッグ&ドロップ並び替え
-- フィールドの複製
-  
-#### 技術スタック<br>
-<img src="https://img.shields.io/badge/-WordPress-333.svg?logo=wordpress&style=flat">　<img src="https://img.shields.io/badge/-PHP-333.svg?logo=php&style=flat">　<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">　
-
-#### 概要
-無料で使える、より柔軟なカスタムフィールドプラグインです。<br>
-一般的なカスタムフィールドプラグインでは、ドラッグ&ドロップに制限があったり、追加機能が課金制ですが、**本プラグインは「ドラッグ&ドロップによる柔軟なフィールド管理が標準搭載」** です。<br>
-データ取得用 API も用意し、開発者とユーザーが使いやすいプラグインを目指します。<br>
-前述の「GreenLeafCafe」と並行し、**実用レベルの完成を目指して開発を進めています。** <br>
 <br>
-リポジトリ→ 準備中 <br>
-
-___
-
-### fontsplit
-<img src="https://img.shields.io/badge/--CB3837.svg?logo=npm&style=flat" height="180">
-
-#### 機能<br>
-- フォントファイルを分割
-- 分割したファイル用の font-face を生成
-- woff2 に自動変換
-
-#### 技術スタック<br>
-<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-Node.js-333.svg?logo=nodedotjs&style=flat">
-
-#### 概要
-フォントファイルを小さく分割し、最適な font-face を生成する npm パッケージです。<br>
-フォントをセルフホスティングするのに役立ち、フォントの選択を自由にします。<br>
-ECサイトやブログなど、**動的に変化するテキストにも対応** でき、**パフォーマンスを維持しながら Webフォントを適用可能** です。<br>
 <br>
-npm → https://www.npmjs.com/package/fontsplit <br>
-リポジトリ→ https://github.com/stwch/fontsplit <br>
-
-
-___
-
-### GBFHelper｜グラブル攻略サイト
-<img src="./feature-top.jpg" alt="GBFHelper" width="320" />
-
-#### 実装機能<br>
-・UIデザイン（情報整理・ゲーム内画像による視認性向上）
-
-#### 技術スタック<br>
-<img src="https://img.shields.io/badge/-Astro-333.svg?logo=astro&style=flat">　<img src="https://img.shields.io/badge/-React-333.svg?logo=react&style=flat">　<img src="https://img.shields.io/badge/-TypeScript-333.svg?logo=typescript&style=flat">　<img src="https://img.shields.io/badge/-CSS-333.svg?logo=css&style=flat">
-
-#### 概要
-グランブルーファンタジーの攻略サイトです。<br>
-情報を整理し、ユーザーが見慣れているゲーム内画像の使用を重視することで、直感的にキャラクターやアイテムを把握できるよう設計しました。<br>
-また、**データの読み込みを最適化し、快適な閲覧体験を提供** します。<br>
 <br>
-サイト→ https://gbf-helper.com <br>
-リポジトリ→ https://github.com/stwch/GBFHelper <br>
+
+## fontsplit
+<a name="fontsplit"></a>
+<img src="https://img.shields.io/badge/--CB3837.svg?logo=npm&style=flat" height="360">
+
+### 開発
+2025年1月 ～
+### 概要
+フォントファイルをセルフホスティングするために分割する npmパッケージ
+### 目的
+1. Webフォントの選択を自由にする。
+2. フォントをセルフホスティングすることで、外部サービスへの依存を無くす。
+3. フォントの読み込みによるパフォーマンス低下を解決する。
+### 課題
+1. 日本語と英語にしか対応していない。
+2. コマンドラインで使うと可読性が低い。
+3. コマンドライン以外で使うならコードを書く必要があり、ひと手間かかる。
+### 採用技術
+- Node.js：ファイルを読み込み、コマンドラインで実行するため
+- TypeScript：コードのメンテナンス性を維持
+- JavaScript：すぐに実行できるサンプルコードの作成（通常、Node.js は TypeScript を実行できない）
+### リンク
+- [リポジトリはこちら](https://github.com/stwch/fontsplit#readme) <br>
+- [npm はこちら](https://www.npmjs.com/package/fontsplit)
+
+<br>
+<br>
+<br>
+<br>
+
+## GreenLeafCafe（改修中）
+<a name="greenleafcafe"></a>
+<img src="./green-leaf-cafe-top.webp" alt="GreenLeafCafe" width="640" />
+
+### 開発
+2024年12月 ～
+### 概要
+架空のカフェのホームページ<br>
+AI をフル活用し、より、リアルなホームページへリニューアルします
+### 要望（AI）
+1. 地元の住民や観光客に向けて、カフェの魅力を発信するためのウェブサイトを制作してほしい。
+2. オンラインでの予約や問い合わせができる仕組みを導入したい。
+3. 写真素材はこちらで提供しますが、その他の素材（アイコンやイラスト）は相談の上、必要であれば用意してほしい。
+### 実装機能
+1. ブログ（カフェの魅力の発信）
+2. オンライン予約システム（予約、キャンセル、自動送信メール）
+3. お問い合わせ（入力フォーム）
+### 採用技術
+- Next.js：API で予約システム、ブログを動的に取得する
+- WordPress：予約システムとブログを一括管理し、クライアントの負担を軽減
+- TypeScript：コードのメンテナンス性を維持
+### 開発進行状況
+- 静的な実装完了
+- 予約システムの動作確認済み
+
+今後の予定：ブログ機能の実装
+### リンク
+- [リポジトリはこちら](https://github.com/stwch/green-leaf-cafe#readme)
